@@ -106,19 +106,3 @@ sncast --profile testnet1 deploy --class-hash <class-hash> --constructor-calldat
 # Other Useful commands
 
 1. Run `scarb --offline build` to build a project without updating dependencies.
-
-
-## Important Links
-- [Braavos google play store link](https://chrome.google.com/webstore/detail/braavos-smart-wallet/jnlgamecbpmbajjfhmmmlhejkemejdma)
-- [Starknet Goerli network faucet](https://faucet.goerli.starknet.io)
-- [Starscan](https://testnet.starkscan.co/)
-- [Voyager](https://goerli.voyager.online/?lang=en-US&theme=light)
-- [Starknet Documentation](https://docs.starknet.io/documentation/)
-- [Starknet Book](https://book.starknet.io/)
-- [Cairo Book](https://cairo-book.github.io/)
-- [Starknet Foundry book](https://foundry-rs.github.io/)
-- [Starknet Ecosystem](https://www.starknet-ecosystem.com/)
-- [Run Starknet Locally with Katana](https://book.dojoengine.org/toolchain/katana/overview.html)
-- [Starknet By Example Voyager book](https://starknet-by-example.voyager.online/)
-- [Starknet Converter Utility](https://www.stark-utils.xyz/converter)
-- [Starknet docs](https://docs.starknet.io/)
