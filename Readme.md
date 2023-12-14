@@ -1,5 +1,6 @@
-# Cairo Smart contracts
-Smart contracts written in cairo1.0
+# StarkSync Contracts
+
+StarkSync is a active liquidity manager for starknet
 
 
 

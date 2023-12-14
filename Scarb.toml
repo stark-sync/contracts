@@ -1,10 +1,10 @@
 [package]
-name = "cairo_contracts"
+name = "starksync_contracts"
 version = "0.2.0"
-authors = ["Satyam Bansal <satyamsgsits1994@gmail.com>"]
-description = "Collection of commonly used starknet smart contracts"
+authors = ["Starknet Community"]
+description = "Active Liquidity Manager contracts on Starknet"
 readme = "README.md"
-repository = "https://github.com/satyambnsal/cairo-smart-contracts"
+repository = "https://github.com/stark-sync/contracts"
 license = "MIT"
 keywords = ["Cairo", "Starknet", "Layer2"]
 
